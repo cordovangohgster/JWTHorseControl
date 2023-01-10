@@ -1,0 +1,12 @@
+{
+	"name": "JWTHorseControl",
+	"description": "",
+	"version": "1.0.0",
+	"homepage": "",
+	"mainsrc": "./src",
+	"projects": [],
+	"dependencies": {
+		"github.com/hashload/horse": "^3.0.2",
+		"github.com/paolo-rossi/delphi-jose-jwt": "^v3.2.0"
+	}
+}
